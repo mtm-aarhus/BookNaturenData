@@ -1,0 +1,7 @@
+OpenOrchestrator==1.*
+Pillow==10.*
+requests==2.34.*
+
+[dev]
+pylint
+flake8
